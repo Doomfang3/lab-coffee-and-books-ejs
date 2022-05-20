@@ -15,6 +15,7 @@ In this exercise, let's create an app to save both bookstores and coffee places 
 
 - Fork this repo
 - Clone this repo
+- Nodejs v10
 
 ## Submission
 
